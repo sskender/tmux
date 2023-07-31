@@ -5,6 +5,9 @@ Tmux configuration
 ## Quickstart
 
 ```bash
+# backup old configuration (optional)
+mv ~/.tmux.conf ~/.tmux.conf.bkp
+
 # clone repository
 cd ~/Documents
 git clone https://github.com/sskender/tmux.git
