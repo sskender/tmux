@@ -2,7 +2,7 @@
 
 Tmux configuration
 
-### Quickstart
+## Quickstart
 
 ```bash
 # clone repository
