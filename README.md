@@ -10,7 +10,7 @@ mv ~/.tmux.conf ~/.tmux.conf.bkp
 
 # clone repository
 cd ~/Documents
-git clone https://github.com/sskender/tmux.git
+git clone git@github.com:sskender/tmux.git
 
 # link tmux file
 ln -s ~/Documents/tmux/.tmux.conf ~/.tmux.conf
