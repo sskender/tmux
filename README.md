@@ -13,7 +13,7 @@ cd ~/Documents
 git clone git@github.com:sskender/tmux.git
 
 # link tmux file
-ln -s ~/Documents/tmux/.tmux.conf ~/.tmux.conf
+ln -s ~/Documents/tmux/tmux.conf ~/.tmux.conf
 
 # update
 cd ~/Documents/tmux
