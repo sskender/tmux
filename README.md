@@ -19,3 +19,9 @@ ln -s ~/Documents/tmux/tmux.conf ~/.tmux.conf
 cd ~/Documents/tmux
 git pull
 ```
+
+Reload tmux config:
+
+```txt
+[Ctrl-B] :source ~/.tmux.conf
+```
